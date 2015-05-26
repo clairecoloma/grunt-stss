@@ -39,6 +39,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "stss": "xavierlacot/stss"
+    "stss": "github:xavierlacot/stss#fix/recent-packages"
   }
 }
